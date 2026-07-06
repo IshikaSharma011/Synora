@@ -35,5 +35,3 @@ dist-ssr
 SETUP.md
 
 .env
-.prettierignore
-.prettierrc
